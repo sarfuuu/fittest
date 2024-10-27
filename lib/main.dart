@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
               'This is sarfaraz learn branch i made changes on.....',
             ),
             Text(
-              '$_counter',
+              'test 3',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
           ],
